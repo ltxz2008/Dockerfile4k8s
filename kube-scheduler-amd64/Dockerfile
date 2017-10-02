@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.8.0
+FROM gcr.io/google_containers/kube-scheduler-amd64:v1.8.0
 MAINTAINER silenceshell <silenceshell@datastart.cn>
