@@ -1,2 +1,2 @@
 FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.7
-MAINTAINER silenceshell <silenceshell@datastart.cn>
+MAINTAINER ltxz2008@vip.qq.com
