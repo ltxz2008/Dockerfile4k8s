@@ -1,1 +1,1 @@
-FROM gcr.io/runconduit/proxy:v0.1.1
+FROM gcr.io/runconduit/proxy:v0.1.3
