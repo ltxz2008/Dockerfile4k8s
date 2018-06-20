@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.7
+FROM k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.8
 MAINTAINER ltxz2008@vip.qq.com
