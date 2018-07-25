@@ -1,0 +1,1 @@
+FROM gcr.io/linkerd-io/web:v18.7.1
