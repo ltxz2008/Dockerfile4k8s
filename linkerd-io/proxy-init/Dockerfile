@@ -1,0 +1,1 @@
+FROM gcr.io/linkerd-io/proxy-init:v18.7.1
