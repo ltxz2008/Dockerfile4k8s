@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-proxy-amd64:v1.10.4
+FROM k8s.gcr.io/kube-proxy:v1.16.0
 MAINTAINER ltxz2008@vip.qq.com

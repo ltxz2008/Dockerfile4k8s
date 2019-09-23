@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.3.15-0
+FROM k8s.gcr.io/coredns:1.6.2
 MAINTAINER ltxz2008@vip.qq.com
